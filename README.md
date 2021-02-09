@@ -1,0 +1,1 @@
+This is Duc's first git project!
